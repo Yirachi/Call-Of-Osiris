@@ -1,5 +1,4 @@
 # Call-Of-Osiris
-My first Game Projekt. 
+My first game project. 
 
-Here I will upload my art and my codes.
-also the future plan and what i will do next. 
+I will upload the game's current state with an according roadmap, the graphic assets and code here.
